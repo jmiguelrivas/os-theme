@@ -1,24 +1,24 @@
 # Raspberry Pi OS // LXDE
 
-> In order to configure your theme type `lxappearance` on your terminal
-
-
-## Complete Theme
+## Theme
+- Install the assets with the following command:
 ```sh
-sudo apt install arc-theme papirus-icon-theme breeze-cursor-theme faenza-icon-theme obsidian-icon-theme mint-x-icons
-```
----------------------------------------
-## LXDE Themes
-```sh
-sudo apt install arc-theme
+# LXDE Theme: arc-theme
+# Icons: papirus-icon-theme
+# Cursors: breeze-cursor-theme
+sudo apt install arc-theme papirus-icon-theme breeze-cursor-theme
 ```
 
-## Icons
+- In order to configure your theme run this on your terminal:
 ```sh
-sudo apt install papirus-icon-theme faenza-icon-theme obsidian-icon-theme mint-x-icons
+lxappearance
 ```
 
-## Cursor
+- Then use this settings:
 ```sh
-sudo apt install breeze-cursor-theme
+Widget: Arc-Dark
+Color -> Selected Items -> Background: #b85f90
+Icon Theme: Papirus-Dark
+Mouse Cursor: Breeze
+Window Border: Arc-Dark
 ```
