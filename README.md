@@ -1,9 +1,12 @@
 # Themes
 ## Backgrounds
-![Cloud Preview](img/cloud.png)
-![Mountain Preview](img/mountains.png)
-![Moon Preview](img/moon.png)
-![Plane Preview](img/plane.png)
+![Cloud](img/cloud.png)
+![Mountain](img/mountains.png)
+![Moon](img/moon.png)
+![Plane](img/plane.png)
+![Kite](img/kite.png)
+![Tie](img/tie.png)
+![Monster](img/monster.png)
 > These backgrounds were created with optimization and versatility in mind (which is very needed in a slow operating system).
 - Suggested settings:
 ```sh
@@ -17,6 +20,12 @@ Background color: Solid color
 Astronaut: #414c6f;
 Lochmara: #3465a4;
 BahamaBlue: #204a87;
+
+// Orange
+WhiskeySour: #cd9855;
+
+// Red
+Viola: #bc8292;
 
 // Violet
 HoneyFlower: #5c3566;
