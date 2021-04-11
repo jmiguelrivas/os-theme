@@ -3,6 +3,7 @@
 ![Cloud](img/cloud.png)
 ![Mountain](img/mountains.png)
 ![Moon](img/moon.png)
+![Robot](img/robot.png)
 ![Plane](img/plane.png)
 ![Kite](img/kite.png)
 ![Tie](img/tie.png)
